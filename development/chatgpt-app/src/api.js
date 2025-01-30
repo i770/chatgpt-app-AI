@@ -3,7 +3,7 @@ const apiKey = 'dc881367f8db6e8007df3ca7a70ad6836fa7d25dbd420727bc402bedd01eb477
 
 const apiUrl = 'https://api.openai.com/v1/completions';
 
-/
+
 const requestBody = {
   model: "text-davinci-003", // You can choose the model you need
   prompt: "Hello, how are you today?", // The text prompt you want the model to complete

@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# ecommerce-code-challenge
+=======
 # Shopping Cart App
 
 This is a simple shopping cart application built with React. It allows users to view available products, add them to their cart, update quantities, remove items, and view the total price. The app is designed with a clean and responsive layout, making it a good starting point for an e-commerce site or project.
@@ -11,8 +14,11 @@ This is a simple shopping cart application built with React. It allows users to 
 - **Cart Total**: Automatically calculate the total cost of the cart based on the product quantities.
 - **Checkout**: Placeholder button for a checkout flow.
 
-## Technologies Used
 
+<<<<<<< HEAD
 - **React**: A JavaScript library for building user interfaces.
-- **Tailwind CSS**: A utility-first CSS framework for fast styling.
+- **Tailwind CSS**: A utility-first CSS framework for fast styling.n
 - **Lucide Icons**: A set of open-source icons used in the app for buttons and actions.
+>>>>>>> initial commit
+=======
+>>>>>>> initial commit
